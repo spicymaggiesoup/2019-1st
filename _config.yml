@@ -1,0 +1,9 @@
+#
+remote_theme: notitle/notheme
+
+# General Jekyll Config
+highlighter: rouge
+url: "http://webAccess-Website.github.io/."
+baseurl: ""
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
